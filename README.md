@@ -1,8 +1,8 @@
 # Power-BI-Project-Project Title: Sales Data Visualization
-Introduction
+**Introduction**
 In today’s data-driven business environment, the ability to visualize and interpret sales data effectively is critical for informed decision-making and strategic planning. This report details the development of an interactive Sales Data Visualization dashboard using Power BI, based on a dataset sourced from Kaggle. The project transforms raw sales data into actionable insights, empowering executives and senior management to gain a deeper understanding of market dynamics, customer behavior, and overall business performance. The visualizations focus on key trends, performance metrics, and key performance indicators (KPIs) that support the optimization of sales strategies and the promotion of sustainable organizational growth.
 
-Table of Contents
+**Table of Contents**
 Data Source
 Objectives
 Type of Data
@@ -14,7 +14,7 @@ Challenges Faced and Solutions
 Data Visualization
 Conclusion
 
-Data Source
+**Data Source**
 Source: Kaggle
 The dataset used in this project was sourced from Kaggle, a well-known platform for publicly available datasets. This dataset provides detailed sales information essential for understanding market trends, customer behavior, and performance metrics.
 
