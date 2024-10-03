@@ -29,7 +29,7 @@ Actionable Insights: Deriving insights that can inform strategic decisions and i
 Time Series: Sales transaction data over time allows identification of trends and seasonal variations in sales performance.
 Geospatial: Geographic data enables analysis of regional sales distribution and performance, providing insight into geographic sales variations.
 
-**Communication Techniques: **
+**Communication Techniques:**
 Comparison: Visualizations will allow comparative analysis across various dimensions (e.g., product categories, regions, time periods), helping stakeholders identify areas of improvement.
 Composition: Decomposing total sales into subcomponents such as revenue per product category and customer segment helps better understand key performance drivers.
 
