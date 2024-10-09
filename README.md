@@ -3,16 +3,16 @@
 In today’s data-driven business environment, the ability to visualize and interpret sales data effectively is critical for informed decision-making and strategic planning. This report details the development of an interactive Sales Data Visualization dashboard using Power BI, based on a dataset sourced from Kaggle. The project transforms raw sales data into actionable insights, empowering executives and senior management to gain a deeper understanding of market dynamics, customer behavior, and overall business performance. The visualizations focus on key trends, performance metrics, and key performance indicators (KPIs) that support the optimization of sales strategies and the promotion of sustainable organizational growth.
 
 ## Table of Contents:
-Data Source
-Objectives
-Type of Data
-Communication Techniques
-End Users
-Key Questions Addressed
-ETL Process
-Challenges Faced and Solutions
-Data Visualization
-Conclusion
+1. Data Source
+2. Objectives
+3. Type of Data
+4. Communication Techniques
+5. End Users
+6. Key Questions Addressed
+7. ETL Process
+8. Challenges Faced and Solutions
+9. Data Visualization
+10. Conclusion
 
 ## Data Source:
 Source: Kaggle
