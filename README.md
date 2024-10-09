@@ -75,7 +75,7 @@ After the necessary transformations, the cleaned dataset was loaded into Power B
 
 ## Data Visualization:
 The visualization process resulted in the creation of four interactive pages within Power BI, each designed to facilitate easy navigation and insightful analysis:
-1. - Executive Dashboard:
+-- Executive Dashboard:
 This page serves as the central hub for key metrics and insights.
 KPI Cards: Four prominent KPI cards display total orders, total profit, total revenue, and quantity sold, providing a high-level overview of business performance.
 Revenue Trends: A line chart illustrates weekly revenue fluctuations.
