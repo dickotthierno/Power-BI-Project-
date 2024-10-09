@@ -14,7 +14,7 @@ In today’s data-driven business environment, the ability to visualize and inte
 9. Data Visualization
 10. Conclusion
 
-## Data Source:
+## - Data Source:
 Source: Kaggle
 The dataset used in this project was sourced from Kaggle, a well-known platform for publicly available datasets. This dataset provides detailed sales information essential for understanding market trends, customer behavior, and performance metrics.
 
