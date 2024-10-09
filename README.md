@@ -37,28 +37,28 @@ Composition: Decomposing total sales into subcomponents such as revenue per prod
 Target Audience: The primary users of this dashboard will be executives and senior management who require insights into sales performance, customer behavior, and market trends for strategic planning and decision-making.
 
 ## Key Questions Addressed:
-Which key sales metrics should we track to evaluate overall performance?
+1. Which key sales metrics should we track to evaluate overall performance?
 The essential metrics to monitor include total revenue, total profit, quantity sold, and the number of orders. Tracking these KPIs provides a comprehensive view of the company’s performance.
-What sales trends are evident over different time frames (monthly, quarterly, yearly)?
+2. What sales trends are evident over different time frames (monthly, quarterly, yearly)?
 Analysis reveals an increase in sales revenue during holiday seasons and promotional periods, with notable peaks in Q4. Monthly trends indicate cyclical purchasing behavior, which informs inventory and marketing strategies.
-Who are our most valuable customers, and what percentage of total sales do they represent?
+3. Who are our most valuable customers, and what percentage of total sales do they represent?
 The top 20% of customers contribute around 70% of total sales, emphasizing the importance of focusing on high-value customers.
-How does customer segmentation impact sales strategies?
+4. How does customer segmentation impact sales strategies?
 Segmenting customers by demographics and behavior uncovers distinct purchasing patterns, allowing for targeted marketing and sales approaches.
-Which products or categories generate the most revenue, and how does this evolve over time?
+5. Which products or categories generate the most revenue, and how does this evolve over time?
 Electronics and home appliances are the leading categories in terms of revenue, highlighting opportunities for focused marketing and product development.
-What geographic regions exhibit the highest and lowest sales, and what factors contribute to these differences?
+6. What geographic regions exhibit the highest and lowest sales, and what factors contribute to these differences?
 Sales volumes are significantly higher in urban areas, driven by factors such as population density and marketing reach.
-What KPIs should be prioritized to drive actionable insights from the dashboard?
+7. What KPIs should be prioritized to drive actionable insights from the dashboard?
 The prioritized KPIs include total revenue, profit margin, customer acquisition cost, and customer lifetime value, as these provide the most actionable insights for decision-making.
 
 ## ETL Process:
 The ETL (Extract, Transform, Load) process was crucial for preparing the dataset for visualization. This involved the following steps:
 Data Acquisition
-The dataset comprises two primary files:
+1. The dataset comprises two primary files:
 Details File: Contains product-specific information.
 Orders File: Includes customer-specific details such as name, order ID, and demographic data.
-Data Transformation
+2. Data Transformation
 Several data anomalies were identified and resolved after loading the dataset into Power BI:
 Date Format: Addressed inconsistencies in date formats for uniformity.
 Column Naming: Renamed columns for clarity and consistency.
@@ -67,7 +67,7 @@ Calculated revenue using price and quantity sold.
 Added a cost column to compute profit margins.
 Created new time-based columns such as Year, Start of Month, and Start of Week.
 Data Loading
-After the necessary transformations, the cleaned dataset was loaded into Power BI for visualization and analysis.
+3. After the necessary transformations, the cleaned dataset was loaded into Power BI for visualization and analysis.
 
 ## Challenges Faced and Solutions:
 1. A challenge encountered during data transformation was the conversion of the dd/mm/yyyy date format to mm/dd/yyyy, which resulted in errors for rows where the day value exceeded 12 (as no month exceeds 12). To address this, the date column was split into three separate columns (day, month, and year), and then concatenated back into the correct mm/dd/yyyy format. This approach successfully resolved the issue, allowing for a valid date format conversion without errors."
