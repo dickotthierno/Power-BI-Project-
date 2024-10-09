@@ -18,14 +18,14 @@ In today’s data-driven business environment, the ability to visualize and inte
 Source: Kaggle
 The dataset used in this project was sourced from Kaggle, a well-known platform for publicly available datasets. This dataset provides detailed sales information essential for understanding market trends, customer behavior, and performance metrics.
 
-## Objectives:
+## - Objectives:
 The primary objective of this project is to develop an interactive and insightful sales data visualization that allows stakeholders to explore trends, performance metrics, and customer behaviors. Specific objectives include:
-Clear Visualization: Presenting sales data in an intuitive format to support quick and effective decision-making.
-Highlight KPIs: Emphasizing key performance indicators (KPIs) such as total sales, sales growth, and customer segmentation to give a clear view of business health.
-Enable Exploratory Analysis: Providing stakeholders with the ability to explore sales trends over time, by product category, and across geographic regions.
-Actionable Insights: Deriving insights that can inform strategic decisions and improve overall business performance.
+- Clear Visualization: Presenting sales data in an intuitive format to support quick and effective decision-making.
+- Highlight KPIs: Emphasizing key performance indicators (KPIs) such as total sales, sales growth, and customer segmentation to give a clear view of business health.
+- Enable Exploratory Analysis: Providing stakeholders with the ability to explore sales trends over time, by product category, and across geographic regions.
+- Actionable Insights: Deriving insights that can inform strategic decisions and improve overall business performance.
 
-## Type of Data:
+## - Type of Data:
 Time Series: Sales transaction data over time allows identification of trends and seasonal variations in sales performance.
 Geospatial: Geographic data enables analysis of regional sales distribution and performance, providing insight into geographic sales variations.
 
